@@ -1,85 +1,97 @@
 # 🤖 AI Sales Automation
 
-An AI-powered Excel Sales Automation system that transforms raw business data into interactive dashboards, automated reports, and actionable business insights.
+An AI-powered Excel Sales Automation system that transforms raw sales data into automated reports, interactive dashboards, and actionable business insights.
 
-This project helps businesses analyze sales performance without manually processing spreadsheets.
+This project demonstrates how AI and Python automation can help businesses reduce manual Excel work and make faster data-driven decisions.
 
 ---
 
-## 🚀 Project Overview
+# 📌 Project Overview
 
-Many businesses store sales data in Excel files but spend hours manually creating reports and analyzing performance.
+Many businesses collect sales information in Excel files but still spend hours manually creating reports and analyzing performance.
 
-AI Sales Automation automates this process by:
+AI Sales Automation solves this problem by automatically:
 
-- Processing raw Excel sales data
-- Generating business reports automatically
+- Processing Excel sales data
+- Calculating important business metrics
 - Creating interactive dashboards
-- Identifying top-performing products and regions
-- Providing AI-powered business insights
+- Generating professional Excel reports
+- Providing AI-powered sales insights
 
 ---
 
 # ✨ Features
 
-## 📊 Sales Dashboard
+## 📊 Interactive Sales Dashboard
 
-Interactive dashboard built with Streamlit.
+Built with Streamlit.
 
-Includes:
+The dashboard provides:
 
 - Total Revenue
 - Total Quantity Sold
-- Best Product
-- Best Region
+- Best Performing Product
+- Best Performing Region
 - Product Performance Analysis
 - Regional Sales Analysis
 
 
----
+## 📈 Automated Excel Reporting
 
-## 📁 Excel Automation
-
-Automatically generates professional Excel reports.
+The system automatically creates structured business reports.
 
 Generated reports include:
 
 ### Executive Summary
-
-Business overview including:
-
-- Total sales
-- Key performance indicators
-- Important metrics
-
-
-### Sales Data
-
-Cleaned and processed sales information.
+- Overall sales performance
+- Important KPIs
+- Business overview
 
 
 ### Product Analysis
-
-Performance analysis by product.
+- Product comparison
+- Revenue performance
+- Best-selling products
 
 
 ### Regional Analysis
+- Sales performance by region
+- Regional comparison
 
-Sales comparison between regions.
-
-
----
 
 ## 🤖 AI Business Insights
 
-The system analyzes sales data and generates useful business recommendations.
+The system analyzes sales data and generates business recommendations.
 
 Examples:
 
-- Identifying successful products
-- Detecting strong sales regions
-- Highlighting business opportunities
-- Supporting data-driven decisions
+- Identifying high-performing products
+- Finding strong sales regions
+- Highlighting improvement opportunities
+- Supporting business decisions
+
+---
+
+# 📸 Project Demo
+
+## Sales Dashboard
+
+![Dashboard](screenshots/Screenshot%202026-09-21%20201141.png)
+
+
+## Sales Analytics
+
+![Analytics](screenshots/Screenshot%202026-09-21%20201203.png)
+
+
+## AI Business Insights
+
+![AI Insights](screenshots/Screenshot%202026-09-21%20201228.png)
+
+
+## Automated Excel Report
+
+![Excel Report](screenshots/Screenshot%202026-09-21%20201251.png)
 
 ---
 
